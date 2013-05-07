@@ -1,4 +1,6 @@
-Hello, Git
-I've edited this file
-New info in readme
-New Remote Share 
+	Hello, Git
+	I've edited this file I've edited this file
+	I've edited this file I've edited this file
+	I've edited this file I've edited this file
+	I've edited this file s fil.e.
+Feature1
