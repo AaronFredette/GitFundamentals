@@ -1,4 +1,8 @@
 Adding some code here
+<<<<<<< HEAD
 Adding more code to this 
 Fix1
 
+=======
+Fix1
+>>>>>>> 762ab48... Added fix1
